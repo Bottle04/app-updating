@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "",
-  "releaseNotes": "Bản khởi tạo ứng dụng",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/Bottle04/app-updating/main/app-v1.0.2.apk",
+  "releaseNotes": "• Loại bỏ chức năng đơn giá tối thiểu / km\n• Giữ nguyên bộ lọc Giá tối thiểu & Khoảng cách đón chuẩn xác 100%\n• Cập nhật OTA tự động mượt mà",
   "forceUpdate": false
 }
