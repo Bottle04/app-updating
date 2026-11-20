@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://raw.githubusercontent.com/Bottle04/app-updating/main/app-v1.0.2.apk",
-  "releaseNotes": "• Loại bỏ chức năng đơn giá tối thiểu / km\n• Giữ nguyên bộ lọc Giá tối thiểu & Khoảng cách đón chuẩn xác 100%\n• Cập nhật OTA tự động mượt mà",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://raw.githubusercontent.com/Bottle04/app-updating/main/app-v1.0.3.apk",
+  "releaseNotes": "• Bổ sung mục Khoảng cách đón chấp nhận tối đa vào bộ lọc từ khóa\n• Tối ưu so khớp từ khóa: khách chọn không dấu vẫn khớp 100% với từ khóa có dấu\n• Cập nhật OTA tự động",
   "forceUpdate": false
 }
